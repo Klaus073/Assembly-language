@@ -1,3 +1,5 @@
+;Suppose you are given an array. Find the number(s) which is repeated the most.
+
 [org 0x0100]
 
 jmp start
