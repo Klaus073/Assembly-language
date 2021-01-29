@@ -1,0 +1,6 @@
+     1                                  [org 0x01000] ; leave it for upcoming labs
+     2 00000000 B80500                  mov ax, 5 ; moving 5 into ax
+     3 00000003 BB0A00                  mov bx, 10 ; moving 10 into bx
+     4 00000006 01C3                    add bx, ax ; adding ax into bx
+     5 00000008 B8004C                  mov ax, 0x4c00 ; leave it for upcoming labs
+     6 0000000B CD21                    int 0x21 ; leave it for upcoming labs

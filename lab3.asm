@@ -1,7 +1,3 @@
-;Let’s say you have an array of 10 elements. Consider the first five elements and find the
-maximum integer from them. Then consider the last five elements and find the minimum integer
-from them. Add up the maximum and minimum integer and output the result.
-
 [org 0x0100]
 
 jmp start
